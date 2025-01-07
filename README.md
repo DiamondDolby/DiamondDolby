@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sharavanan Mathivanan
+- 👋 Hi, I’m Sharky
 - 👀 I’m interested in Robotics, Ai and IoT. 
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me: sharavanan.mathivanan@gmail.com
