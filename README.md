@@ -60,12 +60,6 @@ Let’s just say if it moves, tracks, or computes, I probably built it 😄
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/140281305-6f8d6d25-8b45-4f9d-b8d1-96413f6c5f86.gif" alt="Code animation" width="200"/>
-</p>
-
----
-
 
 <!---
 DiamondDolby/DiamondDolby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
