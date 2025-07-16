@@ -32,17 +32,14 @@ Let’s just say if it moves, tracks, or computes, I probably built it 😄
 ---
 
 ## 🚀 Featured Projects
-🔹 **Gaze Detection Proctoring Engine**  
-*Analyzes user focus and eye movement during online exams using OpenCV + MediaPipe.*
+🔹 **Gaze Detection Security System**  
+*Identifies and tracks user focus through eye movement using OpenCV + MediaPipe.*
 
 🔹 **RT-DETR Model Integration**  
 *Enhanced real-time object detection performance on live feeds.*
 
 🔹 **Autonomous Robot Suite**  
 *Built robots that sense, navigate, and automate tasks with embedded systems.*
-
-🔹 **Java Arithmetic Utility**  
-*Reliable backend tool for clean arithmetic operations and input handling.*
 
 ---
 
