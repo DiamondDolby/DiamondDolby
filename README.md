@@ -28,6 +28,11 @@ Let’s just say if it moves, tracks, or computes, I probably built it 😄
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 ---
 
@@ -51,14 +56,8 @@ Let’s just say if it moves, tracks, or computes, I probably built it 😄
 ---
 
 ## 💬 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sharkycanada/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sharkyca/)
 - 💬 Engineering Thoughts Into Reality
 - ✨ Fun Fact: I’ve got a robot that follows voice commands — and doesn’t judge my playlist!
 
 ---
-
-
-<!---
-DiamondDolby/DiamondDolby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
