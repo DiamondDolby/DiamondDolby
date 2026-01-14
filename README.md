@@ -58,6 +58,6 @@ Let’s just say if it moves, tracks, or computes, I probably built it 😄
 ## 💬 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sharkyca/)
 - 💬 Engineering Thoughts Into Reality
-- ✨ Fun Fact: I’ve got a robot that follows voice commands — and doesn’t judge my playlist!
+- ✨ Fun Fact: I’ve got a robot that follows voice commands, and doesn’t judge my playlist!
 
 ---
